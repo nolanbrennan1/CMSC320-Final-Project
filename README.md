@@ -15,6 +15,7 @@ This study observed 5 professional poker players and an AI poker player the rese
 
 ## Citations:
 Brown, Noam, and Tuomas Sandholm. “Superhuman AI for Multiplayer Poker.” Science, vol. 365, no. 6456, 11 July 2019, pp. 885–890, https://doi.org/10.1126/science.aay2400.
+
 uoftcprg. “Phh-Dataset/Data/Pluribus at Main · Uoftcprg/Phh-Dataset.” GitHub, 2024, github.com/uoftcprg/phh-dataset/tree/main/data/pluribus. Accessed 3 Dec. 2024.
 
 
